@@ -16,7 +16,7 @@ This code will fetch all your CBS volumes and delete all volumes except:
     "config": {
       "accessKeyId": "REPLACE_ACCESS_KEY_ID",
       "secretAccessKey": "REPLACE_SECRET_ACCESS_KEY",
-      "region": "us-west-1" // this can be changed to 😁
+      "region": "REPLACE_AWS_REGION"
     }
   }
 }
