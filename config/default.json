@@ -1,0 +1,9 @@
+{
+  "AWS": {
+    "config": {
+      "accessKeyId": "REPLACE_ACCESS_KEY_ID",
+      "secretAccessKey": "REPLACE_SECRET_ACCESS_KEY",
+      "region": "us-west-1"
+    }
+  }
+}

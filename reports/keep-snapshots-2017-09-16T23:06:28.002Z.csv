@@ -1,0 +1,5 @@
+"Name","SnapshotId","OwnerId","StartTime","Description"
+"backup_20170916205000","snap-0517cfdfaa3de87dc","878572373535","2017-09-16T22:45:07.000Z","[Copied snap-078c05403af2867dd from us-west-1] backup test staging"
+"backup_20170815205000","snap-0c757719da00a5197","878572373535","2017-09-16T19:35:11.000Z","[Copied snap-078c05403af2867dd from us-west-1] backup test staging"
+"backup_20170915205000","snap-059694026f06433fa","878572373535","2017-09-16T19:01:36.000Z","[Copied snap-078c05403af2867dd from us-west-1] backup test staging"
+"backup_20170916085000","snap-078c05403af2867dd","878572373535","2017-09-16T15:50:44.000Z","backup test staging"

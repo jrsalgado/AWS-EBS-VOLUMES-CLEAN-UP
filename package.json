@@ -1,0 +1,22 @@
+{
+  "name": "ebs-backups",
+  "version": "1.0.0",
+  "description": "ebs snapshot cleanup",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "npm install --prefer-offline",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayro Salgado Alvarado",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.117.0",
+    "config": "^1.26.2",
+    "json-pretty": "0.0.1",
+    "json2csv": "^3.11.2",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "rxjs": "^5.4.3"
+  }
+}
